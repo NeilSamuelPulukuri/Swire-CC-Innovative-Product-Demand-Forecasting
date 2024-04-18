@@ -1,6 +1,6 @@
 # Swire-CC-Innovative-Product-Demand-Forecasting
 
-<img width="182" alt="image" src="https://github.com/NeilSamuelPulukuri/Swire-CC-Innovative-Product-Demand-Forecasting/assets/141296161/0cbfefb3-2093-471c-8c98-418ca003a22e">
+        <img width="182" alt="image" src="https://github.com/NeilSamuelPulukuri/Swire-CC-Innovative-Product-Demand-Forecasting/assets/141296161/0cbfefb3-2093-471c-8c98-418ca003a22e">
 
 
 ## Business Problem & Problem Objective
