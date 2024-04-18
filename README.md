@@ -1,6 +1,6 @@
 # Swire-CC-Innovative-Product-Demand-Forecasting
 
-# Business Problem & Problem Objective
+## Business Problem & Problem Objective
 
 Swire Coca-Cola faces a business challenge in optimizing production planning and inventory management for its innovative beverage products segment. The innovative products that Swire plans to launch differ from historical sales. This is a similar kind of problem Swire Coca-Cola has faced in the past, where for one product, they had overproduced, leaving their inventory overstocked, and in another instance, they produced too few products, resulting in a lack of supply to meet the demand, and this incurred a loss. Now, they are introducing seven innovative products and want to know how many units to produce, as well as the best times of the year and regions to launch them. The project aims to build a robust machine-learning model that can predict the best 13 weeks of the year and the forecasted sales for those weeks.
 
